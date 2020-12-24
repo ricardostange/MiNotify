@@ -1,5 +1,5 @@
 # MiNotify
-Send message notifications to Mi Band using Python and Telegram
+Send messages to Mi Band using Python and Telegram
 
 # Setting it up
 1. Activate Telegram notifications on your Mi Fit app  
