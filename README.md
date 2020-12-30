@@ -5,9 +5,10 @@ Send messages to Mi Band using Python and Telegram
 1. Activate Telegram notifications on your Mi Fit app  
 Profile -> Your Device -> Application Alert -> Manage applications -> Telegram  
 2. Create a telegram bot. An easy way is to message @BotFather on Telegram.
-3. Download the file **minotify.py**
-4. Place the Telegram bot token that was created in string "YOUR_TOKEN_HERE"
-5. Install Telegram-python dependency by running
+3. Install Telegram-python dependency by running
+4. Download the file **minotify.py**
+5. Place the Telegram bot token that was created in string "YOUR_TOKEN_HERE"
+
 `pip install python-telegram-bot`
 
 # How To Use
